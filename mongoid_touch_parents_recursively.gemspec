@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'mongoid_touch_parents_recursively'
   s.version     = '0.0.1'
-  s.date        = '2013-10-22'
+  s.date        = '2013-12-04'
   s.summary     = File.read("README.markdown").split(/===+/)[1].strip.split("\n")[0]
   s.description = s.summary
   s.authors     = ["David Chen"]
